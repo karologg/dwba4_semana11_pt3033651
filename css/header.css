@@ -29,9 +29,9 @@ nav {
 /* Estilização dos links da navegação */
 nav a {
   color: white;
-  padding: 14px 16px;
+  padding: 5px;
+  font-weight: bold;
   text-decoration: none;
-  display: inline-block;
   transition: background-color 0.3s;
 }
 
