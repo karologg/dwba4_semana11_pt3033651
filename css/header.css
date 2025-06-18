@@ -92,6 +92,8 @@ nav a:hover {
 .banner {
   background-color: #007e3a; /* verde do IFSP */
   padding: 10px 0;
+  height: 80px;
+  width: fit-content;
   text-align: left;
 }
 
